@@ -78,7 +78,7 @@ header div p{
 main{
     display: grid;
     grid-template-rows: 30% 30% 30%;
-    height: 400px;
+    height: 70px;
     background-color: white;
     font-family: 'Roboto', sans-serif;
     font-size: 8pt;
